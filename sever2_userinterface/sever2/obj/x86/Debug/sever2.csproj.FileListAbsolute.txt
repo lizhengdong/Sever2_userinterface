@@ -1,0 +1,17 @@
+D:\CplusplusProject\sever2_userinterface\sever2\bin\x86\Debug\sever2.exe.config
+D:\CplusplusProject\sever2_userinterface\sever2\obj\x86\Debug\Interop.AndroidTalkComLib.dll
+D:\CplusplusProject\sever2_userinterface\sever2\obj\x86\Debug\Interop.TalkComLib.dll
+D:\CplusplusProject\sever2_userinterface\sever2\obj\x86\Debug\sever2.csproj.ResolveComReference.cache
+D:\CplusplusProject\sever2_userinterface\sever2\bin\x86\Debug\sever2.exe
+D:\CplusplusProject\sever2_userinterface\sever2\bin\x86\Debug\sever2.pdb
+D:\CplusplusProject\sever2_userinterface\sever2\bin\x86\Debug\Interop.AndroidTalkComLib.dll
+D:\CplusplusProject\sever2_userinterface\sever2\bin\x86\Debug\Interop.TalkComLib.dll
+D:\CplusplusProject\sever2_userinterface\sever2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CplusplusProject\sever2_userinterface\sever2\obj\x86\Debug\sever2.ADDuser.resources
+D:\CplusplusProject\sever2_userinterface\sever2\obj\x86\Debug\sever2.Form1.resources
+D:\CplusplusProject\sever2_userinterface\sever2\obj\x86\Debug\sever2.Phone.resources
+D:\CplusplusProject\sever2_userinterface\sever2\obj\x86\Debug\sever2.Properties.Resources.resources
+D:\CplusplusProject\sever2_userinterface\sever2\obj\x86\Debug\sever2.UserInfo.resources
+D:\CplusplusProject\sever2_userinterface\sever2\obj\x86\Debug\sever2.csproj.GenerateResource.Cache
+D:\CplusplusProject\sever2_userinterface\sever2\obj\x86\Debug\sever2.exe
+D:\CplusplusProject\sever2_userinterface\sever2\obj\x86\Debug\sever2.pdb

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="sever2">
+</Property><Property Name="解决方案文件" Value="H:\手机程序20110222\控制端代码\控制端代码\sever2\sever2.sln">
+</Property><Property Name="用户选项文件" Value="H:\手机程序20110222\控制端代码\控制端代码\sever2\sever2.suo">
+</Property><Property Name="Date" Value="2011年5月11日 星期三">
+</Property><Property Name="Time" Value="17:22">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="sever2.sln" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2.sln">
+</Event><Event ErrorLevel="0" Project="" Source="sever2.suo" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2.suo">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\sever2.csproj" Description="项目文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\sever2.csproj">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\ADDuser.cs" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\ADDuser.cs">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\ADDuser.Designer.cs" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\ADDuser.Designer.cs">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\FileControl.cs" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\FileControl.cs">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\Form1.cs" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\Form1.cs">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\Form1.Designer.cs" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\MusicPlayer.cs" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\MusicPlayer.cs">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\Phone.cs" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\Phone.cs">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\Phone.Designer.cs" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\Phone.Designer.cs">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\Program.cs" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\Program.cs">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\Properties\AssemblyInfo.cs" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\Properties\Resources.Designer.cs" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\Properties\Settings.Designer.cs" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\serverDataSet2.Designer.cs" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\serverDataSet2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\TransferFiles.cs" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\TransferFiles.cs">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\WaveNative.cs" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\WaveNative.cs">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\WaveOut.cs" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\WaveOut.cs">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\WaveStream.cs" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\WaveStream.cs">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\app.config" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\app.config">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\Properties\Settings.settings" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\serverDataSet2.xsc" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\serverDataSet2.xsc">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\serverDataSet2.xsd" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\serverDataSet2.xsd">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\serverDataSet2.xss" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\serverDataSet2.xss">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\4.ico" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\4.ico">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\ADDuser.resx" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\ADDuser.resx">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\Form1.resx" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\Form1.resx">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\Phone.resx" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\Phone.resx">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\Properties\Resources.resx" Description="文件已成功备份为 H:\手机程序20110222\控制端代码\控制端代码\sever2\Backup\sever2\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\sever2.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="sever2" Source="sever2\sever2.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="sever2.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="sever2.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="sever2" Source="sever2\sever2.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

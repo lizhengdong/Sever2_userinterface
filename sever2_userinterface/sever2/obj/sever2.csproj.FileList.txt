@@ -1,0 +1,12 @@
+bin\Debug\sever2.exe.config
+obj\Debug\sever2.exe
+obj\Debug\sever2.pdb
+bin\Debug\sever2.exe
+bin\Debug\sever2.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\sever2.csproj.ResolveComReference.cache
+obj\Debug\sever2.ADDuser.resources
+obj\Debug\sever2.Form1.resources
+obj\Debug\sever2.Phone.resources
+obj\Debug\sever2.Properties.Resources.resources
+obj\Debug\sever2.csproj.GenerateResource.Cache
